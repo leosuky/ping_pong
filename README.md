@@ -1,5 +1,5 @@
-# ping_pong
+# ping pong game
 A basic ping pong game
-Run main.py to play the game
-player 1 moves with W & S keys
-player 2 moves with ↑ & ↓ arrow keys
+- Run main.py to play the game
+- player 1 moves with W & S keys
+- player 2 moves with ↑ & ↓ arrow keys
